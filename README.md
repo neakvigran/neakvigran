@@ -113,8 +113,9 @@ A network security automation project focused on analyzing access control lists 
 
 ## 🤝 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nutavut-eakvigran-914695404/)
-- 💻 [GitHub](https://github.com/neakvigran)
+- 🌐 **Cybersecurity Writeups:** [neakvigran.github.io](https://neakvigran.github.io/)
+- 💼 **LinkedIn:** [Nutavut Eakvigran](https://www.linkedin.com/in/nutavut-eakvigran-914695404/)
+- 💻 **GitHub:** [neakvigran](https://github.com/neakvigran)
 
 ---
 
