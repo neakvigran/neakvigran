@@ -1,6 +1,8 @@
-# Hi there, I'm Nutavut Eakvigran 👋
+# > whoami
 
-### Cybersecurity Enthusiast | Aspiring Penetration Tester | ICT Student
+**Nutavut Eakvigran** 👋
+
+### Cybersecurity | Aspiring Penetration Tester | ICT Student
 
 I'm a third-year **Information and Communication Technology student at Mahidol University**, passionate about **Offensive Security, Penetration Testing, and Network Security**.
 
@@ -57,14 +59,6 @@ A network security automation project focused on analyzing access control lists,
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neakvigran&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neakvigran&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nutavut-eakvigran-914695404/)
@@ -72,4 +66,4 @@ A network security automation project focused on analyzing access control lists,
 
 ---
 
-*Always learning. Always improving. Always curious about security.*
+*sudo make me a pentester.*
