@@ -1,6 +1,6 @@
 # > whoami
 
-**Nutavut Eakvigran** 👋
+## **Hey there! 👋 I'm Nutavut Eakvigran**
 
 ### Cybersecurity | Aspiring Penetration Tester | Full-Stack Developer
 
@@ -46,7 +46,7 @@ I enjoy understanding how systems work, identifying security weaknesses, and bui
 - **Web Security:** Burp Suite
 - **Network Analysis:** Wireshark
 - **Penetration Testing:** Metasploit Framework
-- **Operating Systems:** Linux, Kali Linux
+- **Operating Systems:** Linux, Window
 - **Version Control:** Git & GitHub
 
 ---
