@@ -11,7 +11,7 @@ Alongside cybersecurity, I have hands-on experience developing and deploying **f
 I enjoy understanding how systems work, identifying security weaknesses, and building tools that improve security testing workflows.
 
 - 🎓 **Education:** ICT at Mahidol University, Thailand
-- 🔐 **Security Focus:** Web Application Security, Network Security, and Linux Privilege Escalation
+- 🔐 **Security Focus:** Web Application Security, Network Security, and AI Security
 - 🏆 **TryHackMe:** Ranked in the Top 2%
 - 🧪 **Hands-on Learning:** TryHackMe, Hack The Box, PortSwigger Web Security Academy, OverTheWire, and CTF challenges
 - 💻 **Development:** Full-Stack Web Development and Security Automation
