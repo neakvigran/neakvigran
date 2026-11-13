@@ -19,9 +19,9 @@ I enjoy understanding how systems work, finding security weaknesses, and buildin
 
 ---
 
-## 🛠️ Technical Skills
+## </> Technical Skills
 
-### 🔐 Offensive Security
+### ⚔️ Offensive Security
 - Web Application Security Testing
 - Network Reconnaissance and Enumeration
 - Vulnerability Assessment
@@ -51,7 +51,7 @@ I enjoy understanding how systems work, finding security weaknesses, and buildin
 
 ---
 
-## 🚀 Featured Projects
+## 🗂️ Projects
 
 ### 🛡️ [CVE Risk Prioritization Engine (CRPE)](https://github.com/neakvigran/CVE-Risk-Prioritization-Engine)
 **Cybersecurity Research | Vulnerability Assessment | Network Security | Python**
@@ -111,7 +111,7 @@ Developed and deployed a full-stack financial management web application for the
 
 ---
 
-## 🧪 Cybersecurity Training Platforms
+## Cybersecurity Training Platforms ᕙ(  •̀ ᗜ •́  )ᕗ
 
 - **TryHackMe**: Hands-on cybersecurity labs and practical challenges | Top 2%
 - **Hack The Box**: Penetration testing labs and security challenges
